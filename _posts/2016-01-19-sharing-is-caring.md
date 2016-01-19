@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T06:44:00.202Z'
-dateModified: '2016-01-19T06:40:34.014Z'
+datePublished: '2016-01-19T07:51:39.659Z'
+dateModified: '2016-01-19T07:51:29.334Z'
+title: Sharing Is Caring
+author: []
+sourcePath: _posts/2016-01-19-sharing-is-caring.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Sharing Is Caring
-author: []
-sourcePath: _posts/2016-01-19-sharing-is-caring.md
-published: true
 url: sharing-is-caring/index.html
 _type: Article
 
