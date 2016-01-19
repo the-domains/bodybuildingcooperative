@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BodyBuildingCooperative]]></title>
         <description><![CDATA[BodyBuildingCooperative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bodybuildingcooperative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 06:44:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 06:44:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bodybuildingcooperative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[100%]]></title>
+            <description><![CDATA[<h1>100%</h1>]]></description>
+            <link>https://thegrid.ai/bodybuildingcooperative/100/index.html</link>
+            <guid isPermaLink="false">9e570c65-28f8-46f2-85a9-3bbcbbbfa777</guid>
+            <pubDate>Tue, 19 Jan 2016 06:43:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>CLA</p>]]></description>
-            <link>undefined3a9c91bf-fcad-46a7-b93e-ce5e294fd65d/index.html</link>
+            <link>https://thegrid.ai/bodybuildingcooperative/3a9c91bf-fcad-46a7-b93e-ce5e294fd65d/index.html</link>
             <guid isPermaLink="false">3a9c91bf-fcad-46a7-b93e-ce5e294fd65d</guid>
             <pubDate>Tue, 19 Jan 2016 06:43:59 GMT</pubDate>
         </item>
