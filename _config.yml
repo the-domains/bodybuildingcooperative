@@ -1,6 +1,6 @@
 name: BodyBuildingCooperative
 favicon: null
-layout_spectrum: 0.49653
+layout_spectrum: 1
 typography_spectrum: 0.32183
 title: Power in Numbers
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070906'
-    - '#ebf2f8'
-    - '#beb1a1'
-    - '#486900'
-    - '#03ac44'
+    - '#fefefe'
+    - '#050503'
+    - '#bcc5ce'
+    - '#757482'
+    - '#46b28d'
   brandStrength: 0.3125
-  lightness: 0.3125
+  lightness: 0.75
   saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []
