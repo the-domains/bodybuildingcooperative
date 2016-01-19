@@ -1,7 +1,7 @@
 name: BodyBuildingCooperative
 favicon: null
-layout_spectrum: 0.25696459389291704
-typography_spectrum: 0.4532612671609968
+layout_spectrum: 0.49653
+typography_spectrum: 0.32183
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.25536153349094093
-  lightness: 0.24355965456925333
-  saturation: 0.3787205193657428
-  rhythmicContrast: 0.19710189942270517
+    - '#070906'
+    - '#ebf2f8'
+    - '#beb1a1'
+    - '#486900'
+    - '#03ac44'
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
